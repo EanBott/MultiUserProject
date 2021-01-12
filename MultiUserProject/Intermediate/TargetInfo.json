@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiUserProject",
+			"Path": "C:\\Users\\user\\Desktop\\MultiUserProject\\Source\\MultiUserProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiUserProjectEditor",
+			"Path": "C:\\Users\\user\\Desktop\\MultiUserProject\\Source\\MultiUserProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
