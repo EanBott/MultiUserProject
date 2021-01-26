@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MultiUserProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ED2E30DD-D224-4B1D-AE2C-B0CD4DD79A51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiUserProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MultiUserProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{241069D8-38F6-448F-BAF2-E4CA9B9289FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MultiUserProject">
+      <UniqueIdentifier>{8FCA18F4-EB25-471E-A8D9-417079320E4C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MultiUserProject\MultiUserProject.Build.cs">
+      <Filter>Source\MultiUserProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MultiUserProject\MultiUserProject.cpp">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiUserProject\MultiUserProject.h">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiUserProject\MultiUserProjectCharacter.cpp">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiUserProject\MultiUserProjectCharacter.h">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiUserProject\MultiUserProjectGameMode.cpp">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiUserProject\MultiUserProjectGameMode.h">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MultiUserProject\MultiUserProjectPlayerController.cpp">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MultiUserProject\MultiUserProjectPlayerController.h">
+      <Filter>Source\MultiUserProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
