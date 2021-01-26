@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\user\\Documents\\GitHub\\MultiUserProject2\\MultiUserProject\\Source\\MultiUserProject\\MultiUserProject.Build.cs",
-		"C:\\Users\\user\\Documents\\GitHub\\MultiUserProject2\\MultiUserProject\\Source\\MultiUserProject.Target.cs",
-		"C:\\Users\\user\\Documents\\GitHub\\MultiUserProject2\\MultiUserProject\\Source\\MultiUserProjectEditor.Target.cs"
+		"C:\\Users\\user\\Documents\\GitHub\\MultiUserProject\\MultiUserProject\\Source\\MultiUserProject\\MultiUserProject.Build.cs",
+		"C:\\Users\\user\\Documents\\GitHub\\MultiUserProject\\MultiUserProject\\Source\\MultiUserProject.Target.cs",
+		"C:\\Users\\user\\Documents\\GitHub\\MultiUserProject\\MultiUserProject\\Source\\MultiUserProjectEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
