@@ -31,8 +31,8 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Intermediate\Build\Win64\UE4Editor\Inc\MultiUserProject
-/I C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Source
+/I C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Intermediate\Build\Win64\UE4Editor\Inc\MultiUserProject
+/I C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Intermediate\Build\Win64\MultiUserProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Intermediate\Build\Win64\MultiUserProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Intermediate\Build\Win64\MultiUserProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Source\MultiUserProject\MultiUserProject.cpp"
-/FI"C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Intermediate\Build\Win64\UE4Editor\Development\MultiUserProject\Definitions.MultiUserProject.h"
-/Fo"C:\Users\user\Documents\GitHub\MultiUserProject\MultiUserProject\Intermediate\Build\Win64\UE4Editor\Development\MultiUserProject\MultiUserProject.cpp.obj"
+/FI"C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Intermediate\Build\Win64\MultiUserProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Intermediate\Build\Win64\MultiUserProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Intermediate\Build\Win64\MultiUserProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Source\MultiUserProject\MultiUserProject.cpp"
+/FI"C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Intermediate\Build\Win64\UE4Editor\Development\MultiUserProject\Definitions.MultiUserProject.h"
+/Fo"C:\Users\user\Documents\GitHub\MultiUserProject2\MultiUserProject\Intermediate\Build\Win64\UE4Editor\Development\MultiUserProject\MultiUserProject.cpp.obj"
 /TP
 /GR-
 /W4
