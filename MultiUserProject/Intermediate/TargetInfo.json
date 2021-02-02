@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiUserProject",
+			"Path": "C:\\Users\\user\\Documents\\GitHub\\MultiUserProject2\\MultiUserProject\\Source\\MultiUserProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiUserProjectEditor",
+			"Path": "C:\\Users\\user\\Documents\\GitHub\\MultiUserProject2\\MultiUserProject\\Source\\MultiUserProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
