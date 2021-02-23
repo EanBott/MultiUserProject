@@ -25436,3 +25436,38 @@ Scale3D: 1.000000 1.000000 1.000000
 [2021.02.23-20.52.48:558][644]LogContentValidation: Display: Validating World /Game/TopDownCPP/Maps/Level1.Level1
 [2021.02.23-20.52.48:558][644]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode
 [2021.02.23-20.52.48:558][644]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.02.23-20.57.20:057][616]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e32db5fb-363f-44d4-9a04-45e6058bf19b}.
+[2021.02.23-20.57.20:057][616]LogTemp: Resetting audio stream to device id 
+[2021.02.23-20.57.20:195][616]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.02.23-20.57.20:195][616]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: Is Default: Yes
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: Sample Rate: 48000
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: Channel Count Used: 2
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: Device Channel Count: 2
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: Channel Order:
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-20.57.20:196][616]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-20.57.21:401][617]LogTemp: Resetting audio stream to device id 
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Is Default: Yes
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Sample Rate: 48000
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Channel Count Used: 2
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Device Channel Count: 2
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: Channel Order:
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.23-20.57.21:632][617]LogAudioMixer: Display: 1: FrontRight
+[2021.02.23-20.59.01:168][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownCPP/Blueprints/Projectile.Projectile
+[2021.02.23-20.59.18:938][565]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.23-20.59.18:938][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.23-21.02.48:692][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.02.23-21.02.48:697][797]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/Level1' took 0.043
+[2021.02.23-21.02.48:697][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2021.02.23-21.02.48:721][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter]
+[2021.02.23-21.02.48:721][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownCharacter]
+[2021.02.23-21.02.48:761][797]LogSavePackage: Moving '../../../../../../Users/nealp/Documents/GitHub/MultiUserProject/GridRunner/Saved/TopDownCharacter_Auto5DA04D21346D55E720B2CCB9CBBAD0AB5.tmp' to '../../../../../../Users/nealp/Documents/GitHub/MultiUserProject/GridRunner/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownCharacter_Auto5.uasset'
+[2021.02.23-21.02.48:763][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownCPP/Blueprints/Projectile] ([1] browsable assets)...
+[2021.02.23-21.02.48:780][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownCPP/Blueprints/Projectile.Projectile]
+[2021.02.23-21.02.48:780][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownCPP/Blueprints/Projectile]
+[2021.02.23-21.02.48:793][797]LogSavePackage: Moving '../../../../../../Users/nealp/Documents/GitHub/MultiUserProject/GridRunner/Saved/Projectile_Auto5439200C344B23F1C4CF075BEC07F8A7B.tmp' to '../../../../../../Users/nealp/Documents/GitHub/MultiUserProject/GridRunner/Saved/Autosaves/Game/TopDownCPP/Blueprints/Projectile_Auto5.uasset'
+[2021.02.23-21.02.48:794][797]LogFileHelpers: Auto-saving content packages took 0.097
