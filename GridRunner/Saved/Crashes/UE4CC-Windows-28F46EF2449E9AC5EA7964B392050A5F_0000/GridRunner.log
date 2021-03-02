@@ -1,0 +1,1455 @@
+﻿Log file open, 03/02/21 12:41:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GridRunner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.075156
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.02-18.41.13:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:572][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:576][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.02-18.41.13:576][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.02-18.41.13:577][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.02-18.41.13:577][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.02-18.41.13:577][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.02-18.41.13:581][  0]LogHAL: Display: Platform has ~ 32 GB [34182402048 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.02-18.41.13:581][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.02-18.41.13:581][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.02-18.41.13:581][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Scalability.ini]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.02-18.41.13:582][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Config/Windows/Engine.ini]
+[2021.03.02-18.41.13:582][  0]LogInit: Computer: T238-01
+[2021.03.02-18.41.13:582][  0]LogInit: User: user
+[2021.03.02-18.41.13:582][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.02-18.41.13:582][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.02-18.41.13:582][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.03.02-18.41.13:582][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.02-18.41.13:582][  0]LogMemory: Process Physical Memory: 106.23 MB used, 106.24 MB peak
+[2021.03.02-18.41.13:582][  0]LogMemory: Process Virtual Memory: 101.69 MB used, 101.69 MB peak
+[2021.03.02-18.41.13:582][  0]LogMemory: Physical Memory: 8225.00 MB used,  24373.88 MB free, 32598.88 MB total
+[2021.03.02-18.41.13:582][  0]LogMemory: Virtual Memory: 5159.41 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2021.03.02-18.41.13:584][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.02-18.41.13:608][  0]LogInit: Using OS detected language (en-US).
+[2021.03.02-18.41.13:608][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.02-18.41.13:609][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.02-18.41.13:725][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.02-18.41.13:755][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.02-18.41.13:755][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.02-18.41.13:947][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.02-18.41.13:947][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.02-18.41.13:947][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.02-18.41.13:947][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.02-18.41.14:009][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.03.02-18.41.14:009][  0]LogD3D11RHI:       8079/0/16299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.02-18.41.14:043][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.03.02-18.41.14:043][  0]LogD3D11RHI:       128/0/16299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.03.02-18.41.14:045][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.02-18.41.14:045][  0]LogD3D11RHI:       0/0/16299 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.02-18.41.14:045][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.02-18.41.14:051][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.02-18.41.14:051][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.02-18.41.14:051][  0]LogWindows: EnumDisplayDevices:
+[2021.03.02-18.41.14:051][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.03.02-18.41.14:051][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.03.02-18.41.14:051][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.02-18.41.14:052][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.03.02-18.41.14:052][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.02-18.41.14:052][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.02-18.41.14:053][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.03.02-18.41.14:053][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.03.02-18.41.14:053][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.03.02-18.41.14:053][  0]LogD3D11RHI:   Driver Version: 442.23 (internal:26.21.14.4223, unified:442.23)
+[2021.03.02-18.41.14:053][  0]LogD3D11RHI:      Driver Date: 1-31-2020
+[2021.03.02-18.41.14:053][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.03.02-18.41.14:091][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.02-18.41.14:091][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.02-18.41.14:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.02-18.41.14:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.02-18.41.14:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.02-18.41.14:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.02-18.41.14:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.02-18.41.14:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.02-18.41.14:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.02-18.41.14:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.02-18.41.14:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.02-18.41.14:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.02-18.41.14:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.02-18.41.14:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.02-18.41.14:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.02-18.41.14:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.02-18.41.14:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.02-18.41.14:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.02-18.41.14:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.02-18.41.14:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.02-18.41.14:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.02-18.41.14:547][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.02-18.41.14:550][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.02-18.41.14:589][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Intermediate/Shaders/WorkingDirectory/2168/).
+[2021.03.02-18.41.14:589][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/1836E879492F57689B76C689141A2509/'.
+[2021.03.02-18.41.14:589][  0]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.02-18.41.14:590][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.02-18.41.14:590][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.02-18.41.14:590][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.02-18.41.15:177][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.02-18.41.15:219][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.03.02-18.41.15:219][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.03.02-18.41.15:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.02-18.41.15:219][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.02-18.41.15:219][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.02-18.41.15:219][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.02-18.41.15:227][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.02-18.41.15:227][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.02-18.41.15:227][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.02-18.41.15:228][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.02-18.41.15:228][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.02-18.41.15:228][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.02-18.41.15:247][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.03.02-18.41.15:249][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.02-18.41.15:250][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.02-18.41.15:308][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.03.02-18.41.15:549][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.02-18.41.15:679][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.02-18.41.15:679][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.02-18.41.15:679][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.02-18.41.15:679][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.02-18.41.15:679][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.02-18.41.15:691][  0]LogNetVersion: GridRunner 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3180280444)
+[2021.03.02-18.41.16:682][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032230 seconds
+[2021.03.02-18.41.16:687][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.03.02-18.41.16:687][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.03.02-18.41.16:687][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.02-18.41.17:044][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.02-18.41.17:047][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.02-18.41.17:093][  0]SourceControl: Source control is disabled
+[2021.03.02-18.41.17:093][  0]SourceControl: Source control is disabled
+[2021.03.02-18.41.17:094][  0]SourceControl: Source control is disabled
+[2021.03.02-18.41.17:095][  0]SourceControl: Source control is disabled
+[2021.03.02-18.41.17:096][  0]SourceControl: Source control is disabled
+[2021.03.02-18.41.17:189][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.02-18.41.17:198][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.02-18.41.17:198][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.02-18.41.17:270][  0]LogOcInput: OculusInput pre-init called
+[2021.03.02-18.41.17:282][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.02-18.41.17:282][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.02-18.41.17:335][  0]LogEngine: Initializing Engine...
+[2021.03.02-18.41.17:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.02-18.41.17:337][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.02-18.41.17:589][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.02-18.41.17:595][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-18.41.17:612][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-18.41.17:612][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-18.41.17:612][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: Channel Order:
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-18.41.17:626][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-18.41.17:930][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.02-18.41.17:934][  0]LogInit: FAudioDevice initialized.
+[2021.03.02-18.41.17:934][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.02-18.41.18:035][  0]LogDerivedDataCache: Saved boot cache 0.10s 79MB C:/Users/user/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.03.02-18.41.18:035][  0]LogInit: Texture streaming: Enabled
+[2021.03.02-18.41.18:045][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.02-18.41.18:045][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.02-18.41.18:047][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.02-18.41.18:079][  0]LogInit: Transaction tracking system initialized
+[2021.03.02-18.41.18:089][  0]BlueprintLog: New page: Editor Load
+[2021.03.02-18.41.18:122][  0]LocalizationService: Localization service is disabled
+[2021.03.02-18.41.18:377][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/MultiUserProject/GridRunner/Content/' took 0.01s
+[2021.03.02-18.41.18:377][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.02-18.41.18:377][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.02-18.41.19:066][  0]SourceControl: Source control is disabled
+[2021.03.02-18.41.19:066][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.02-18.41.19:067][  0]LightingResults: New page: Lighting Build
+[2021.03.02-18.41.19:067][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-18.41.19:067][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-18.41.19:068][  0]MapCheck: New page: Map Check
+[2021.03.02-18.41.19:068][  0]LightingResults: New page: Lighting Build
+[2021.03.02-18.41.19:092][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.03.02-18.41.19:099][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_PlaceHolderDecor.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:100][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_PlaceHolderDecor.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:100][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_PlaceHolderDecor.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:101][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_PlaceHolderDecor.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:102][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:102][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:102][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:103][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:104][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:104][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/RedCubeMaterial.RedCubeMaterial Referenced by Cube_GEN_VARIABLE
+[2021.03.02-18.41.19:104][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/Geometry/Meshes/RedCubeMaterial': Can't find file.
+[2021.03.02-18.41.19:104][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/RedCubeMaterial.RedCubeMaterial Referenced by Cube_GEN_VARIABLE
+[2021.03.02-18.41.19:107][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:107][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA.M_StraightTileA Referenced by TileFloor_GEN_VARIABLE
+[2021.03.02-18.41.19:107][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:107][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA.M_StraightTileA Referenced by TileFloor_GEN_VARIABLE
+[2021.03.02-18.41.19:109][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_LeftTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:109][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_LeftTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:110][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_LeftTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:110][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_LeftTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:114][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_RightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:114][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_RightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:114][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_RightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:114][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_RightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:117][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:118][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:118][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:118][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:118][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:119][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:119][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:119][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:119][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:119][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA.M_StraightTileA Referenced by Default__BP_StraightTile_C
+[2021.03.02-18.41.19:120][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:120][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA.M_StraightTileA Referenced by Default__BP_StraightTile_C
+[2021.03.02-18.41.19:120][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:120][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB.M_StraightTileB Referenced by Default__BP_StraightTile_C
+[2021.03.02-18.41.19:120][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:120][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB.M_StraightTileB Referenced by Default__BP_StraightTile_C
+[2021.03.02-18.41.19:121][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:121][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile.M_RightTile Referenced by TileFloor_GEN_VARIABLE
+[2021.03.02-18.41.19:121][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:121][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile.M_RightTile Referenced by TileFloor_GEN_VARIABLE
+[2021.03.02-18.41.19:121][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:121][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile.M_LeftTile Referenced by TileFloor_GEN_VARIABLE
+[2021.03.02-18.41.19:122][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:122][  0]LoadErrors: Failed to load /Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile.M_LeftTile Referenced by TileFloor_GEN_VARIABLE
+[2021.03.02-18.41.19:127][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:128][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:128][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:128][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_RightTile': Can't find file.
+[2021.03.02-18.41.19:129][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:130][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:130][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:130][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_DockTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_LeftTile': Can't find file.
+[2021.03.02-18.41.19:159][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:160][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:160][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:160][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:160][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:161][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileA': Can't find file.
+[2021.03.02-18.41.19:161][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:161][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/Tiles/BP_StraightTile.uasset' failed to load '/Game/TopDownCPP/Assets/Tiles/Materials/M_StraightTileB': Can't find file.
+[2021.03.02-18.41.19:233][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:233][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: Unable to load Default__TopDownCharacter_C with outer Package /Game/TopDownCPP/Blueprints/TopDownCharacter because its class does not exist
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:234][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:236][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:237][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:238][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:239][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:239][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by Projectile
+[2021.03.02-18.41.19:239][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:239][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by Projectile
+[2021.03.02-18.41.19:239][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:242][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:243][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:243][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:243][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:261][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:261][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:261][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:261][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:262][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:262][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:349][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:349][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by TopDownCharacter
+[2021.03.02-18.41.19:349][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:349][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by TopDownCharacter
+[2021.03.02-18.41.19:350][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:350][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by TopDownCharacter
+[2021.03.02-18.41.19:350][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:350][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by TopDownCharacter
+[2021.03.02-18.41.19:350][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (SetActorTickEnabled) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (SetActorTickEnabled) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddMovementInput) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddMovementInput) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (AddMovementInput) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Unlimited Projectile) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:350][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Speed up) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:351][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Speed down) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:351][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Slowing Down) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:351][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (SetActorTickEnabled) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:351][  0]LogBlueprint: Warning: FMemberReference::ResolveMember (Get speed up) bSelfContext == true, but no scope supplied!
+[2021.03.02-18.41.19:351][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:351][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_0
+[2021.03.02-18.41.19:351][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:351][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_0
+[2021.03.02-18.41.19:351][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:351][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:351][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_1
+[2021.03.02-18.41.19:351][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:351][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_1
+[2021.03.02-18.41.19:351][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:352][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_2
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:352][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_2
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:352][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_3
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:352][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_3
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:352][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_4
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:352][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_CustomEvent_4
+[2021.03.02-18.41.19:352][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:353][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableGet_13
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:353][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableGet_13
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:353][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableGet_4
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:353][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableGet_4
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:353][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableGet_7
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:353][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableGet_7
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:353][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_16
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_16
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_17
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_17
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_2
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_2
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_3
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_3
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_6
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by K2Node_VariableSet_6
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by PackageMetaData
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: While loading '../../../../../../Users/user/Desktop/MultiUserProject/GridRunner/Content/TopDownCPP/Blueprints/TopDownCharacter.uasset' failed to load '/Script/MultiUserProject': Can't find file.
+[2021.03.02-18.41.19:354][  0]LoadErrors: Failed to load /Script/MultiUserProject.MultiUserProjectCharacter Referenced by PackageMetaData
+[2021.03.02-18.41.19:354][  0]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:410][  0]LogAIModule: Creating AISystem for world Level1
+[2021.03.02-18.41.19:419][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.02-18.41.19:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.03.02-18.41.19:447][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.02-18.41.19:447][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2021.03.02-18.41.19:447][  0]LogFileHelpers: Loading map 'Level1' took 0.381
+[2021.03.02-18.41.19:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.41.19:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.41.19:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.41.19:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.41.19:602][  0]LogCollectionManager: Loaded 0 collections in 0.001744 seconds
+[2021.03.02-18.41.19:613][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/MultiUserProject/GridRunner/Saved/Collections/' took 0.00s
+[2021.03.02-18.41.19:613][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/MultiUserProject/GridRunner/Content/Developers/user/Collections/' took 0.00s
+[2021.03.02-18.41.19:613][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/MultiUserProject/GridRunner/Content/Collections/' took 0.00s
+[2021.03.02-18.41.19:613][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 3015 classes and 717 folders.
+[2021.03.02-18.41.19:616][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.02-18.41.19:700][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.02-18.41.19:704][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.03.02-18.41.19:734][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.02-18.41.19:736][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.02-18.41.19:739][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.02-18.41.19:801][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.03.02-18.41.19:873][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.02-18.41.19:873][  0]LogLoad: (Engine Initialization) Total time: 8.62 seconds
+[2021.03.02-18.41.19:873][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UberGraphFrame': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow1_GEN_VARIABLE': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BisMovingRIght': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow1': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_TopDownCharacter': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'EntryPoint': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_EqualEqual_FloatFloat_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Greater_FloatFloat_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Less_FloatFloat_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Less_FloatFloat_ReturnValue_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Has_Been_Initd_Variable': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Has_Been_Initd_Variable_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Has_Been_Initd_Variable_2': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_IsClosed_Variable': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_IsClosed_Variable_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_IsClosed_Variable_2': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Whether_the_gate_is_currently_open_or_close_Variable': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Whether_the_gate_is_currently_open_or_close_Variable_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Whether_the_gate_is_currently_open_or_close_Variable_2': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Isfiring': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'NewVar_0': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'S pressed': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'W Pressed': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'TopDownCamera': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CursorToWorld': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_FloatFloat_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_FloatFloat_ReturnValue_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Subtract_FloatFloat_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Subtract_FloatFloat_ReturnValue_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_Event_DeltaSeconds': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Unlimited Projectile': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Get speed up': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slowing Down': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Speed down': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Speed up': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReceiveBeginPlay': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReceiveTick': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DeltaSeconds': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ReceiveTick
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_4': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_A_K2Node_InputKeyEvent_4': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:884][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_A_K2Node_InputKeyEvent_4
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_5': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_A_K2Node_InputKeyEvent_5': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_A_K2Node_InputKeyEvent_5
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_B_K2Node_InputKeyEvent_0': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_B_K2Node_InputKeyEvent_0
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_B_K2Node_InputKeyEvent_1': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_B_K2Node_InputKeyEvent_1
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_2': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_D_K2Node_InputKeyEvent_2': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_D_K2Node_InputKeyEvent_2
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_3': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_D_K2Node_InputKeyEvent_3': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_D_K2Node_InputKeyEvent_3
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_6': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_S_K2Node_InputKeyEvent_6': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_S_K2Node_InputKeyEvent_6
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_7': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_S_K2Node_InputKeyEvent_7': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_S_K2Node_InputKeyEvent_7
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_8': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_W_K2Node_InputKeyEvent_8': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_W_K2Node_InputKeyEvent_8
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_InputKeyEvent_Key_9': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InpActEvt_W_K2Node_InputKeyEvent_9': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Key': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:InpActEvt_W_K2Node_InputKeyEvent_9
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UserConstructionScript': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'InputKeyDelegateBinding_1': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_BeginDeferredActorSpawnFromClass_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_FinishSpawningActor_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneComponent_0': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:SimpleConstructionScript_0
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_2': SimpleConstructionScript /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:SimpleConstructionScript_0
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': TopDownCharacter_C /Game/TopDownCPP/Blueprints/TopDownCharacter.Default__TopDownCharacter_C
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Conv_FloatToString_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Conv_FloatToString_ReturnValue_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Conv_FloatToString_ReturnValue_2': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Conv_FloatToString_ReturnValue_3': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetForwardVector_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_K2_GetComponentToWorld_ReturnValue': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_struct_Variable': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_struct_Variable_1': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_struct_Variable_2': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_struct_Variable_3': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:885][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_struct_Variable_4': Function /Game/TopDownCPP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter
+[2021.03.02-18.41.19:922][  0]LogAssetRegistry: Asset discovery search completed in 4.6149 seconds
+[2021.03.02-18.41.19:925][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.03.02-18.41.19:926][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.02-18.41.19:987][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.02-18.41.26:147][701]LogSlate: Window 'Message Log' being destroyed
+[2021.03.02-18.41.26:152][701]LogSlate: Window 'Message Log' being destroyed
+[2021.03.02-18.41.41:056][486]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.02-18.41.41:076][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.03.02-18.41.41:249][486]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2021.03.02-18.41.41:891][486]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.02-18.41.42:052][487]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.02-18.41.42:443][529]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/SaveGameHS.SaveGameHS
+[2021.03.02-18.42.24:121][387]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1
+[2021.03.02-18.42.41:619][376]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-18.42.41:630][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.42.41:630][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-18.42.41:631][376]PIE: New page: PIE session: Level1 (Mar 2, 2021, 6:42:41 AM)
+[2021.03.02-18.42.41:631][376]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.02-18.42.41:632][376]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.02-18.42.41:632][376]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Level1
+[2021.03.02-18.42.41:636][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003607s)
+[2021.03.02-18.42.41:637][376]LogAIModule: Creating AISystem for world Level1
+[2021.03.02-18.42.41:637][376]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2021.03.02-18.42.41:637][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Level1.Level1 to /Game/TopDownCPP/Maps/UEDPIE_0_Level1.Level1 (0.004719s)
+[2021.03.02-18.42.41:671][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-18.42.41:673][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-18.42.41:673][376]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-18.42.41:673][376]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-18.42.41:680][376]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.02-18.42.41:680][376]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2021.03.02-18.42.41:680][376]LogAudioMixer: Display: Is Default: Yes
+[2021.03.02-18.42.41:681][376]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.02-18.42.41:681][376]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.02-18.42.41:681][376]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.02-18.42.41:681][376]LogAudioMixer: Display: Channel Order:
+[2021.03.02-18.42.41:681][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-18.42.41:681][376]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-18.42.41:780][376]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.02-18.42.41:781][376]LogInit: FAudioDevice initialized.
+[2021.03.02-18.42.41:795][376]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.03.02-18.42.41:797][376]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.03.02-12.42.41
+[2021.03.02-18.42.41:797][376]LogWorld: Bringing up level for play took: 0.000707
+[2021.03.02-18.42.41:797][376]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.03.02-18.42.41:799][376]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.02-18.42.41:805][376]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Level1 -0.5
+[2021.03.02-18.42.41:805][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.42.43:021][472]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:030][473]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:038][474]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:047][475]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:056][476]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:065][477]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:074][478]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:083][479]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:093][480]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:102][481]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:110][482]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:119][483]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:128][484]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:136][485]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:145][486]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:154][487]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:163][488]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:172][489]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:181][490]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:190][491]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:198][492]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:207][493]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:216][494]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:225][495]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:235][496]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:243][497]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:252][498]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:261][499]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:270][500]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:279][501]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:288][502]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:297][503]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:306][504]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:314][505]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:323][506]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:332][507]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:341][508]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:349][509]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:358][510]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:367][511]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:376][512]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:385][513]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:394][514]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:403][515]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:412][516]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:421][517]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:430][518]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:439][519]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:448][520]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:457][521]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:466][522]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:474][523]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:483][524]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:493][525]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:502][526]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:510][527]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:519][528]LogBlueprintUserMessages: [TopDownCharacter_C_0] 600.0
+[2021.03.02-18.42.43:519][528]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:529][529]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:539][530]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:548][531]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:557][532]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:566][533]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:575][534]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:583][535]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:593][536]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:602][537]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:611][538]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:620][539]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:629][540]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:638][541]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:647][542]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:656][543]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:664][544]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:674][545]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:683][546]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:692][547]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:701][548]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:710][549]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:719][550]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:728][551]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:737][552]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:746][553]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:755][554]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:764][555]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:772][556]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:782][557]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:792][558]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:801][559]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:810][560]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:818][561]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:827][562]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:836][563]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:845][564]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:854][565]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:863][566]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:872][567]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:882][568]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:891][569]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:900][570]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:908][571]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:918][572]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:926][573]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:935][574]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:944][575]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:954][576]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:963][577]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:972][578]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:981][579]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:990][580]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.43:999][581]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:008][582]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:017][583]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:026][584]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:036][585]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:045][586]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:053][587]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:062][588]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:070][589]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:079][590]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:088][591]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:097][592]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:106][593]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:114][594]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:124][595]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:132][596]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:141][597]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:150][598]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:160][599]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:169][600]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:178][601]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:187][602]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:196][603]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:205][604]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:214][605]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:223][606]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:232][607]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:241][608]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:249][609]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:258][610]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:267][611]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:275][612]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:284][613]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:293][614]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:302][615]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:310][616]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:319][617]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:328][618]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:336][619]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:345][620]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:354][621]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:363][622]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:372][623]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:381][624]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:390][625]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:399][626]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:409][627]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:418][628]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:427][629]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:436][630]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:445][631]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:454][632]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:463][633]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:472][634]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:481][635]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:490][636]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:499][637]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:508][638]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:517][639]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:526][640]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:535][641]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:544][642]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:553][643]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:562][644]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:570][645]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:580][646]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:589][647]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:597][648]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:607][649]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:615][650]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:623][651]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:632][652]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:642][653]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:651][654]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:660][655]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:668][656]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:677][657]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:686][658]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:695][659]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:704][660]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:713][661]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:724][662]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:733][663]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:742][664]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:750][665]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:759][666]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:768][667]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:777][668]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:786][669]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:795][670]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:804][671]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:812][672]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:821][673]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:830][674]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:839][675]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:848][676]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:857][677]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:866][678]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:875][679]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:884][680]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:893][681]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:902][682]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:911][683]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:920][684]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:929][685]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:938][686]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:947][687]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:956][688]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:966][689]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:976][690]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:985][691]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.44:994][692]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:002][693]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:011][694]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:020][695]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:031][696]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:040][697]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:049][698]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:059][699]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:069][700]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:077][701]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:087][702]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:096][703]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:105][704]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:114][705]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:123][706]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:132][707]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:141][708]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:151][709]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:160][710]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:170][711]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:179][712]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:189][713]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:198][714]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:207][715]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:216][716]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:225][717]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:234][718]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:242][719]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:251][720]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:259][721]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:268][722]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:277][723]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:286][724]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:295][725]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:304][726]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:312][727]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:321][728]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:329][729]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:339][730]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:348][731]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:357][732]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:366][733]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:374][734]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:383][735]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:392][736]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:401][737]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:410][738]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:418][739]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:427][740]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:436][741]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:445][742]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:454][743]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:462][744]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:471][745]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:480][746]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:489][747]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:497][748]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:506][749]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:515][750]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:524][751]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:533][752]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:541][753]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:550][754]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:559][755]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:568][756]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:578][757]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:588][758]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:597][759]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:606][760]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:615][761]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:624][762]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:633][763]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:642][764]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:651][765]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:660][766]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:670][767]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:679][768]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:688][769]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:697][770]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:706][771]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:714][772]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:726][773]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:735][774]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:743][775]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:752][776]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:761][777]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:770][778]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:778][779]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:787][780]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:796][781]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:805][782]LogBlueprintUserMessages: [TopDownCharacter_C_0] 800.0
+[2021.03.02-18.42.45:806][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.42.45:820][782]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2021.03.02-18.42.45:842][782]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2021.03.02-18.42.45:842][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.42.45:843][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.42.45:843][782]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_Level1
+[2021.03.02-18.42.45:843][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.42.45:843][782]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-18.42.45:845][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-18.42.45:865][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-18.42.45:865][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.42.45:871][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-18.42.45:907][782]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.42.45:910][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.42.45:928][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.03.02-18.42.45:980][783]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.03.02-18.43.15:947][213]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-18.43.15:960][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.43.15:960][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-18.43.15:960][213]PIE: New page: PIE session: Level1 (Mar 2, 2021, 6:43:15 AM)
+[2021.03.02-18.43.15:960][213]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_Level1
+[2021.03.02-18.43.15:964][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003600s)
+[2021.03.02-18.43.15:965][213]LogAIModule: Creating AISystem for world Level1
+[2021.03.02-18.43.15:965][213]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2021.03.02-18.43.15:965][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/Level1.Level1 to /Game/TopDownCPP/Maps/UEDPIE_0_Level1.Level1 (0.004456s)
+[2021.03.02-18.43.16:001][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-18.43.16:003][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-18.43.16:003][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-18.43.16:004][213]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-18.43.16:004][213]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Is Default: Yes
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Sample Rate: 48000
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Channel Count Used: 2
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Device Channel Count: 2
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: Channel Order:
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-18.43.16:011][213]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-18.43.16:092][213]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2021.03.02-18.43.16:093][213]LogInit: FAudioDevice initialized.
+[2021.03.02-18.43.16:101][213]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.03.02-18.43.16:102][213]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.03.02-12.43.16
+[2021.03.02-18.43.16:102][213]LogWorld: Bringing up level for play took: 0.000649
+[2021.03.02-18.43.16:102][213]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.03.02-18.43.16:108][213]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_Level1 -0.197
+[2021.03.02-18.43.16:108][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.43.16:178][217]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.43.16:178][217]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.43.16:178][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.43.16:178][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.43.16:178][217]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_Level1
+[2021.03.02-18.43.16:178][217]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.43.16:178][217]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-18.43.16:179][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-18.43.16:191][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-18.43.16:191][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/TopDownCPP/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/Level1.Level1:PersistentLevel.Level1'
+[2021.03.02-18.43.16:196][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-18.43.16:230][217]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.03.02-18.43.16:234][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-18.43.16:237][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.03.02-18.43.16:292][218]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.03.02-18.43.37:523][604]BlueprintLog: New page: Compile TopDownCharacter
+[2021.03.02-18.43.37:762][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.03.02-18.44.12:041][349]LogUObjectArray: Warning: Other object in slot
+[2021.03.02-18.44.12:041][349]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.02-18.44.12:621][349]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.579 s
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: 
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: Stack: 
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: [Callstack] 0x00007ffca6477b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: [Callstack] 0x00007ffca5c8678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: [Callstack] 0x00007ffca5c9409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: [Callstack] 0x00007ffcb0d5c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.03.02-18.44.12:621][349]LogOutputDevice: Error: [Callstack] 0x00007ffca4bd977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffca4b91647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcc652b144 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcc671dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcc65760b3 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcc65546f9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcc6548ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcf5404ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcf53f242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcf5407195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcf53eec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffd151b5c1d USER32.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffd151b5612 USER32.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffcf5408699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ff727ac6db0 UE4Editor.exe!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ff727adc3ec UE4Editor.exe!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ff727adc4ca UE4Editor.exe!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ff727aeceae UE4Editor.exe!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ff727aefcbe UE4Editor.exe!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffd150f7bd4 KERNEL32.DLL!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: [Callstack] 0x00007ffd153ece51 ntdll.dll!UnknownFunction []
+[2021.03.02-18.44.12:622][349]LogOutputDevice: Error: 
+[2021.03.02-18.44.12:634][349]LogStats:                SubmitErrorReport -  0.000 s
